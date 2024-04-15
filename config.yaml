@@ -1,0 +1,5 @@
+MODULE:
+  SSD_FORMAT:
+    LOG_PATH: /home/hkim/sd_ssd_program/
+    LOGGER: ssd-format-log.txt
+    VENDOR_ID: 21c4
